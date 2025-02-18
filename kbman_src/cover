@@ -1,0 +1,24 @@
+.na
+.bl 3
+TITLE- Users' Reference to B                MM-72-1271-1
+
+
+
+CASE CHARGED- 39199                         DATE- January 7, 1972
+
+FILING CASE-  39199 - 11                    AUTHOR- K._Thompson
+                                                    Ext 2394
+
+FILING SUBJECTS- Compilers
+                 Languages
+                 PDP - 11
+
+
+.ds
+.ce
+.ul
+ABSTRACT
+
+B is a computer language intended for recursive, primarily nonnumeric applications typified by system programming.  B has a small, unrestrictive syntax that is easy to compile.  Because of the unusual freedom of expression and a rich set of operators, B programs are often quite compact.
+
+This manual contains a concise definition of the language, sample programs, and instructions for using the PDP-11 version of B.
